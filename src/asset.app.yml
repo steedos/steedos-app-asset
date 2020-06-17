@@ -1,0 +1,12 @@
+_id: asset
+name: 资产
+description: 资产全过程管理。
+icon_slds: product_item
+is_creator: true
+objects: 
+  - equipment_assets
+  - asset_allocation
+  - instances
+  - tasks
+  - events
+  - reports
