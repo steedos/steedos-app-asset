@@ -20,7 +20,7 @@
  - 新建/修改/删除资产调拨单
  - 发起审批
 
- ![资产管理](https://developer.steedos.com/assets/no-code/asset_workflow_7.png)
+ ![资产管理](https://developer.steedos.com/assets/no-code/assetallocation_7.png)
 
 #### 资产调拨流程
 
